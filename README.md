@@ -20,7 +20,7 @@ If you're paranoid (which you should be), you can make your own or just compare 
 4. Save the .app
 5. Binary is located at "theappyoujustsaved.app/Contents/MacOS/Automator Application Stub"
 
-Feel free to open an issue if you're having trouble.
+(If anyone has a better idea on how to create the .app on MacOS, please don't hesitate to open an issue or a PR)
 
 # *Proof
 https://github.com/privacytools/privacytools.io/issues/1789 – Add warning that Signal stores attachments unencrypted and messages unsafely on desktop <br>
