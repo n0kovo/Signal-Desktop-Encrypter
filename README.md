@@ -22,7 +22,7 @@ If you're paranoid (which you should be), you can make your own or just compare 
 
 Feel free to open an issue if you're having trouble.
 
-# Proof
+# *Proof
 https://github.com/privacytools/privacytools.io/issues/1789 – Add warning that Signal stores attachments unencrypted and messages unsafely on desktop <br>
 https://github.com/signalapp/Signal-Desktop/issues/2815 – All exported data (messages + attachments) are *NOT* encrypted on Disk during (and after) the upgrade process! <br>
 https://github.com/signalapp/Signal-Desktop/issues/4042 – encrypted db.sqlite encryptable, hence conversations interceptable <br>
