@@ -22,18 +22,20 @@ If you're paranoid (which you should be), you can make your own or just compare 
 
 Feel free to open an issue if you're having trouble.
 
-
 # Proof
-https://github.com/privacytools/privacytools.io/issues/1789
-https://github.com/signalapp/Signal-Desktop/issues/2815
-https://github.com/signalapp/Signal-Desktop/issues/4042
-https://github.com/signalapp/Signal-Desktop/issues/5751
-https://github.com/signalapp/Signal-Desktop/issues/5703
-https://github.com/signalapp/Signal-Desktop/issues/1017
-https://github.com/signalapp/Signal-Desktop/issues/452
-https://github.com/signalapp/Signal-Desktop/issues/1318
-https://github.com/signalapp/Signal-Desktop/issues/2793
-https://community.signalusers.org/t/improve-security-of-desktop-apps-encryption-of-data-at-rest/26494
-https://community.signalusers.org/t/lock-the-desktop-app-with-a-password/1383
-https://community.signalusers.org/t/securety-pin-on-desktop/17784
+https://github.com/privacytools/privacytools.io/issues/1789 – Add warning that Signal stores attachments unencrypted and messages unsafely on desktop <br>
+https://github.com/signalapp/Signal-Desktop/issues/2815 – All exported data (messages + attachments) are *NOT* encrypted on Disk during (and after) the upgrade process! <br>
+https://github.com/signalapp/Signal-Desktop/issues/4042 – encrypted db.sqlite encryptable, hence conversations interceptable <br>
+https://github.com/signalapp/Signal-Desktop/issues/5751 – Signal Desktop stores all received attachments unencrypted on filesystem <br>
+https://github.com/signalapp/Signal-Desktop/issues/5703 – Desktop app does not support protected storage <br>
+https://github.com/signalapp/Signal-Desktop/issues/1017 – Messages are stored in plain text and not encrypted locally <br>
+https://github.com/signalapp/Signal-Desktop/issues/452 – Add option to lock the application <br>
+https://github.com/signalapp/Signal-Desktop/issues/1318 – What is stored on the pc and where? <br>
+https://github.com/signalapp/Signal-Desktop/issues/2793 – The attachments should be encrypted at rest on the drive <br>
+[signalusers.org/t/improve-security-of-desktop-apps-encryption-of-data-at-rest](https://community.signalusers.org/t/improve-security-of-desktop-apps-encryption-of-data-at-rest/26494) – 
+Improve security of desktop app’s encryption of data at rest <br>
+[signalusers.org/t/lock-the-desktop-app-with-a-password](https://community.signalusers.org/t/lock-the-desktop-app-with-a-password/1383) – 
+Lock the desktop app with a password <br>
+[signalusers.org/t/securety-pin-on-desktop](https://community.signalusers.org/t/securety-pin-on-desktop/17784) – 
+Securety PIN on Desktop <br>
 
